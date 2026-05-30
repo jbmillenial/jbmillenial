@@ -8,14 +8,14 @@ I'm a technology professional passionate about cybersecurity, cloud computing, n
 
 ## 🚀 About Me
 
-* 🎓 Graduate of Federal University Birnin Kebbi (Second Class Upper, CGPA 4.04)
-* 🛡️ ISC2 Certified in Cybersecurity (CC)
-* 🔐 Cisco CyberOps Certified
-* 🌐 Experienced in Networking, IT Support, and Systems Administration
-* ☁️ Transitioning toward Cloud Computing and Cloud Security
-* 🖥️ Former Junior Network Engineer at the Federal Mortgage Bank of Nigeria
-* 📚 Lifelong learner focused on cybersecurity, cloud technologies, and emerging tech
-* 🇳🇬 Based in Nigeria
+*  Graduate of Federal University Birnin Kebbi (Second Class Upper, CGPA 4.04)
+*  ISC2 Certified in Cybersecurity (CC)
+*  Cisco CyberOps Certified
+*  Experienced in Networking, IT Support, and Systems Administration
+*  Transitioning toward Cloud Computing and Cloud Security
+*  Former Junior Network Engineer at the Federal Mortgage Bank of Nigeria
+*  Lifelong learner focused on cybersecurity, cloud technologies, and emerging tech
+* Based in Nigeria
 
 ---
 
@@ -77,12 +77,13 @@ I'm a technology professional passionate about cybersecurity, cloud computing, n
 
 * ISC2 Certified in Cybersecurity (CC)
 * Cisco CyberOps Associate
+* Google cybersecurity certification
+* Microsft cybersecurity certification
 
 ### 🎯 Currently Pursuing
 
 * CompTIA Security+
-* CompTIA CySA+
-* Cloud Security & Cloud Computing Skills
+* AWS SAA
 
 ---
 
@@ -91,11 +92,11 @@ I'm a technology professional passionate about cybersecurity, cloud computing, n
 I'm currently focused on:
 
 * Cloud Computing
+* DevOps
 * Cloud Security
 * Security Operations (SOC)
 * Threat Hunting
 * Wireshark Analysis
-* Microsoft Azure
 * Incident Response
 * SIEM Technologies
 
