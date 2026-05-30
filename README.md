@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**jbmillenial/jbmillenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Mathew Joseph
 
 ### Cybersecurity Professional | Cloud Security Enthusiast | IT Support Specialist
